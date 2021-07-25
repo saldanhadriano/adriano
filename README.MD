@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @saldanhadriano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center"><img src="https://i.imgur.com/7BRIoOW.png" alt=""></h1>
+  
+<h3 align="center">Hi 👋, I'm Adriano Saldanha. I'm a computer engineer looking for opportunities and collabaration in projects related to data science, python, C/C++ and also arduino ideas for IoT which I love.</h3>
 
-<!---
-saldanhadriano/saldanhadriano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **Python with Django, R with R Studio and Data Mining..**
+- 📫 How to reach me **saldanha.adriano@hotmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/adrianosaldanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianosaldanha" height="30" width="40" /></a>
+<a href="https://instagram.com/saldanhaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saldanhaz" height="30" width="40" /></a>
+<a href="https://twitter.com/srsaldanhaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srsaldanhaz" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools that I'm familiar with:</h3>
+<!--LANGUAGES-->
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python"/> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/> </a> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
+  
+<!--DATABASES-->
+ <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a>
+   
+<!--FRAMEWORKS-->
+ <a href="https://www.r-project.org/" target="_blank"> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Project"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter"/> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm"> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino"/> </a> </a> <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/> <a href="https://powerbi.microsoft.com/pt-br/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="powerbi"> </a> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
+  
+<!-- LANGUAGES-->
+<a href="https://www.microsoft.com/windows/" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> </a></p> 
+ 
+<!-- LANGUAGES-->
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saldanhadriano&show_icons=true&locale=en&theme=tokyonight" alt="saldanhadriano"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saldanhadriano&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saldanhadriano"/></p>

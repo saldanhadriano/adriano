@@ -39,4 +39,4 @@
  <!-- STATS-->
 <h4>⤵️ Github Stats<h4>
   
-  <img align="left" src="https://github-readme-stats-saldanhadriano.vercel.app/api/top-langs?username=saldanhadriano&repo=github-readme-stats&layout=compact&theme=highcontrast" />
+  <img align="left" src="https://github-readme-stats-saldanhadriano.vercel.app/api/top-langs?username=saldanhadriano&repo=github-readme-stats&layout=compact&theme=highcontrast&langs_count=10" />

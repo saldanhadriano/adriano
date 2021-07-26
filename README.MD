@@ -24,7 +24,3 @@
   
 <!-- LANGUAGES-->
 <a href="https://www.microsoft.com/windows/" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android"/> </a></p> 
- 
-<!-- LANGUAGES-->
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=saldanhadriano&show_icons=true&locale=en&theme=tokyonight" alt="saldanhadriano"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saldanhadriano&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saldanhadriano"/></p>

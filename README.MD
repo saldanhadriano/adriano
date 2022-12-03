@@ -2,7 +2,7 @@
   
 <h3 align="center">Hi 👋, I'm Adriano Saldanha. I'm a computer engineer looking for opportunities and collabaration in projects related to data science, python, C/C++ and also arduino ideas for IoT (which I love).</h3>
 
-- 🌱 I’m currently learning **Python with Django, R with R Studio and Data Mining..**
+- 🌱 I’m currently learning **Python**
 - 📫 How to reach me **saldanha.adriano@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
